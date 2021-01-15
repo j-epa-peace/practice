@@ -2,7 +2,7 @@ import requests
 from pprint import pprint
 
 #request paramet 들은 ? 다음에 나옴.
-key = 'ffApqI9Ep1ri%2BOYGxOXEPrtxmF7IvOZrDcVhgsX1fm12dQL3qW%2FbTHhPeIqojbFRq9HAbWswn%2BVOaUcQIwZStg%3D%3D'
+key = 
 return_type = 'json'
 num_of_rows = '5'
 page_no = '1'
